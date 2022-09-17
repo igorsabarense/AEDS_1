@@ -10,6 +10,4 @@ int main() {
     float perimetro = lado * 4;
 
     printf("Perimetro e de %f", perimetro);
-
-
 }
