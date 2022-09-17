@@ -6,7 +6,7 @@ int main() {
 
     printf("PERIMETRO\n");
 
-    float lado = 6;
+    float lado = 7;
     float perimetro = lado * 4;
 
     printf("Perimetro e de %f", perimetro);

@@ -10,5 +10,4 @@ int main() {
     float areaCirculo = 2*pi*raio;
 
     printf("Area do circulo e de %f", areaCirculo);
-
 }
