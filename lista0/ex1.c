@@ -2,6 +2,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+@author Yan Sabarense
+
 int main() {
 
     printf("PERIMETRO\n");
@@ -10,4 +12,5 @@ int main() {
     float perimetro = lado * 4;
 
     printf("Perimetro e de %f", perimetro);
+    
 }
